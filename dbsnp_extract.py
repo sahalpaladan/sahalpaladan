@@ -1,3 +1,4 @@
+#This code written for extract the genomic and chromosomal positions for rsids from dbsnp database
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
