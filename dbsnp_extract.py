@@ -1,4 +1,6 @@
 #This code written for extract the genomic and chromosomal positions for rsids from dbsnp database
+#Create excel file Column heading rsID and add rsids in that column
+#Replace the input excel file as your file
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
