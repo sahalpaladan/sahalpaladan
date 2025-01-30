@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sahal paladan
 - 👀 I’m interested in finding facts
-- 🌱 Project Research Scientist-1
+- 🌱 Project Research Scientist-1 @ ICAR-NIVEDI Banglore
 
 <!---
 sahalpaladan/sahalpaladan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
